@@ -30,7 +30,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Desktop-first workflow
-- Vanilla JavaScript
+- Vanilla Javascript
 
 ### What I learned
 
